@@ -23,3 +23,4 @@ Qual é a mudança que estamos propondo e / ou fazendo?
 ## Consequências
 
 What becomes easier or more difficult to do because of this change?
+O que se torna mais fácil ou mais difícil de fazer por causa dessa mudança? 
