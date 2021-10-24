@@ -2,24 +2,24 @@
 
 ##Usabilidade
   - [NF001] Acesso web
-      Prioridade: Essencial
+      ####Prioridade: Essencial
       
   - [NF002] Interface amigável
-      Prioridade: Importante
+      ####Prioridade: Importante
   
 ## Funcionalidade
   - [NF003] Adequação
-        Prioridade: Importante
+        ####Prioridade: Importante
   - [NF004] Acurácia
         Prioridade: Essencial
 
 ## Portabilidade
   - [NF005]Adaptabilidade
-        Prioridade: Importante
+        ####Prioridade: Importante
 
 ##Confiabilidade
   - [NF006] Backup
-        Prioridade: Importante
+        ####Prioridade: Importante
         
 ##Segurança
   - [NF007] Login e senha
