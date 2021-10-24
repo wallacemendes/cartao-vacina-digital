@@ -9,12 +9,14 @@
 ## Funcionalidade
   - [NF003] Adequação
 #### Prioridade: Importante
+
   - [NF004] Acurácia
-        Prioridade: Essencial
+       #### Prioridade: Essencial
 
 ## Portabilidade
   - [NF005]Adaptabilidade
 #### Prioridade: Importante
+
 ## Confiabilidade
   - [NF006] Backup
         #### Prioridade: Importante       
@@ -25,8 +27,8 @@
         Prioridade: Desejável
 ## Padrões
   - [NF009] Banco de Dados
-        Prioridade: Essencial
+       #### Prioridade: Essencial
   - [NF009] Linguagem do sistema
-        Prioridade: Essencial
+       #### Prioridade: Essencial
   - [NF010] Plataforma Docker
-        Prioridade: Essencial
+       #### Prioridade: Essencial
