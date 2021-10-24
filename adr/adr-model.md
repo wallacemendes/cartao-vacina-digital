@@ -13,8 +13,7 @@ Qual é o status? Exemplo: proposto, aceito, rejeitado, descontinuado, etc.
 
 ## Contexto
 
-What is the issue that we're seeing that is motivating this decision or change?
-Qual o pro
+Qual é o problema que estamos vendo que está motivando essa decisão ou mudança? 
 
 ## Decisão
 
