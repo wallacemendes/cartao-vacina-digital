@@ -5,20 +5,21 @@ You can use [adr-tools](https://github.com/npryce/adr-tools) for managing the AD
 
 In each ADR file, write these sections:
 
-# Title
+# Título
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+Qual é o status? Exemplo: proposto, aceito, rejeitado, descontinuado, etc.
 
-## Context
+## Contexto
 
 What is the issue that we're seeing that is motivating this decision or change?
+Qual o pro
 
-## Decision
+## Decisão
 
-What is the change that we're proposing and/or doing?
+Qual é a mudança que estamos propondo e / ou fazendo? 
 
-## Consequences
+## Consequências
 
 What becomes easier or more difficult to do because of this change?
