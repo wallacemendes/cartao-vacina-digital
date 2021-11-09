@@ -2,10 +2,9 @@
 
 ## Usabilidade
   - [NF001] Acesso web
+    - O sistema será um Web App, portanto será acessado por meio de um navegador.
 #### Prioridade: Essencial
       
-  - [NF002] Interface amigável
-      #### Prioridade: Importante
 ## Funcionalidade
   - [NF003] Adequação
       #### Prioridade: Importante
@@ -15,16 +14,19 @@
 
 ## Portabilidade
   - [NF005]Adaptabilidade
+    - O sistema deve ser acessível a partir de diferentes dispositivos móveis, mantendo a experiência de uso agradável.
       #### Prioridade: Importante
 
 ## Confiabilidade
   - [NF006] Backup
+    - As informações dos usuários deve conter proteção contra eventuais perdas de dados no sistema.
       #### Prioridade: Importante       
 ## Segurança
-
   - [NF007] Login e senha
+    - A identificação de cada usuário é essencial para a entrega das informações pertinentes a cada um deles.
       #### Prioridade: Essencial
   - [NF008] Logoff automático
+    - O logoff é um requisito desejável para evitar acessos indesejados por pessoas não permitidas.
       #### Prioridade: Desejável
       
 ## Padrões
